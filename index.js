@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
   else if (true) { string === string.toLowerCase()
   return 'I can\'t hear you!'
 }
-  else if (false) { string $= string.toLowerCase()
+  else if (true) { string $= string.toLowerCase()
                     string $= string.toLowerCase()
     return 'I love you, too!'
 }
